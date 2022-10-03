@@ -17,4 +17,4 @@ At this point, the central panel will showo only 3 possible entries:
 
 Click on `New taxon name` (number 3 in the image below), and you will be directed to another page.
 
-<img src="https://github.com/DavideDalPos/WID-manual/blob/1ca979a9511acae5ab25d6bcb9fe00c866ac1d80/img/NewTaxon_Centralpanel.png" width="20%"/>
+<img src="https://github.com/DavideDalPos/WID-manual/blob/1ca979a9511acae5ab25d6bcb9fe00c866ac1d80/img/NewTaxon_Centralpanel.png" width="80%"/>
