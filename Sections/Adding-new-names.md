@@ -3,7 +3,7 @@
 ### Choosing the right path
 
 From the front page of `WID`, navigate to the `Filter Cards` panel, on the left:
-1. Click on `Nomenclature`; ciao 
+1. Click on `Nomenclature`
 2. Then on `New`
 
 You will notice that both `Nomenclature` and `New` will be highlighted in green.
